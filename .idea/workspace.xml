@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="488355f9-0547-4e17-a06f-3240160ad32d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qYwFD5lBP84CVmEp0TZ4zHIobO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\golang\src\web" />
+      <recent name="H:\golang\src\web\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build web">
+    <configuration name="go build web" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="web" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build web/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <package value="web/test" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetAllArticles in web/models" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$/models" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="web/models" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetAllArticles\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build web" />
+        <item itemvalue="Go Test.TestGetAllArticles in web/models" />
+        <item itemvalue="Go Build.go build web/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="309" key="FileChooserDialogImpl" timestamp="1617269752929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1022" y="309" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617269752929" />
+    <state width="1470" height="224" key="GridCell.Tab.0.bottom" timestamp="1617790357825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1470" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617790357825" />
+    <state width="1470" height="224" key="GridCell.Tab.0.center" timestamp="1617790357824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1470" height="224" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617790357824" />
+    <state width="1470" height="224" key="GridCell.Tab.0.left" timestamp="1617790357824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1470" height="224" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617790357824" />
+    <state width="1470" height="224" key="GridCell.Tab.0.right" timestamp="1617790357824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1470" height="224" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617790357824" />
+    <state x="743" y="199" key="SettingsEditor" timestamp="1617271386003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617271386003" />
+    <state x="727" y="384" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617271232572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="384" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617271232572" />
+  </component>
+</project>
